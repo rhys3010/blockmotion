@@ -1,0 +1,10 @@
+.button{
+    -fx-pref-width: 20px;
+    -fx-max-width: 20px;
+    -fx-min-width: 20px;
+    -fx-pref-height: 20px;
+    -fx-max-height: 20px;
+    -fx-min-height: 20px;
+    -fx-border-color: darkgrey;
+    -fx-background-color: lightgray;
+}
