@@ -12,4 +12,4 @@ Blockmotion is a very simple animation suite, it allows the user to load footage
 [Full Documentation Here](https://github.com/rhys3010/blockmotion/blob/master/documentation.pdf)
 
 ## Authors
-* [Rhys Evans] (http://rhysevans.xyz)
+* [Rhys Evans](http://rhysevans.xyz)
